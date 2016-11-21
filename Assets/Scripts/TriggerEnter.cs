@@ -2,6 +2,12 @@
 using System.Collections;
 using UnityStandardAssets.ImageEffects;
 
+/*
+Script by Maria
+
+Activates visual effects.
+*/
+
 public class TriggerEnter : MonoBehaviour
 {
 

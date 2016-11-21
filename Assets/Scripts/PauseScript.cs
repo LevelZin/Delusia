@@ -4,6 +4,12 @@ using UnityEngine.UI;
 using System.Collections;
 using UnityEngine.SceneManagement;
 
+/*
+Script by maria.
+
+Functions for UI Pause Menu. 
+*/
+
 public class PauseScript : MonoBehaviour
 {
 

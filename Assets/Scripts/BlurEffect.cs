@@ -2,6 +2,12 @@
 using System.Collections;
 using UnityStandardAssets.ImageEffects;
 
+/*
+Script by Maria
+
+Used for trigger visual effects.
+*/
+
 public class BlurEffect : MonoBehaviour
 {
     private MotionBlur mMotionBlur;

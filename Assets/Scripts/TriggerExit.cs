@@ -2,6 +2,12 @@
 using System.Collections;
 using UnityStandardAssets.ImageEffects;
 
+/*
+Script by Maria
+
+Deactivates visual effects.
+*/
+
 public class TriggerExit : MonoBehaviour
 {
 
